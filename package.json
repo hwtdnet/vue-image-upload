@@ -1,14 +1,14 @@
 {
-  "name": "vue-media-upload",
-  "version": "1.1.4",
-  "description": "upload multiple images with preview",
+  "name": "vue-image-upload",
+  "version": "1.0.0",
+  "description": "upload images with preview",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simmodev/vue-media-upload.git"
+    "url": "git+https://github.com/hwtdnet/vue-image-upload.git"
   },
   "keywords": [
     "laravel",
@@ -24,7 +24,7 @@
   "author": "Simodev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/simmodev/vue-media-upload/issues"
+    "url": "https://github.com/hwtdnet/vue-image-upload/issues"
   },
-  "homepage": "https://github.com/simmodev/vue-media-upload#readme"
+  "homepage": "https://github.com/hwtdnet/vue-image-upload#readme"
 }
