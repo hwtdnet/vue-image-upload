@@ -6,17 +6,10 @@
 
   🖼️ **vue-media-upload** support **the create and the update form**, and it will handle the upload for you.
 
-  ![vue-media-upload - multiple image upload with preview ](/static/vue-media-upload.gif)
-
 </div>
 
 
 # 👀 Demo
-
-- [Fully featured demo](https://github.com/simmodev/media-upload-demo)
-- [Full tutorial](https://dev.to/simodev/how-to-upload-multiple-images-with-preview-using-laravel-and-vue-282j)
-
-![vue-media-upload - multiple image upload with preview ](/static/vue-media-upload.PNG)
 
 # 💻 Install
 
@@ -171,14 +164,9 @@ Basically after the image get uploaded the server return the unique image name a
 7. Create pull request. 🙂
 
 
-# ⭐️ Support
-
-![vue-media-upload - multiple image upload with preview ](/static/vue-media-upload.PNG)
-
 If you like this project, You can support me with starring ⭐ this repository.
 
 # 📄 License
 
 [MIT](LICENSE)
 
-Developed with ❤️

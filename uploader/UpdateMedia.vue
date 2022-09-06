@@ -38,8 +38,8 @@
                             <svg 
                                 class='times-icon' 
                                 xmlns="http://www.w3.org/2000/svg" 
-                                width="0.65em" 
-                                height="0.65em" 
+                                width="0.5em" 
+                                height="0.5em" 
                                 preserveAspectRatio="xMidYMid meet" 
                                 viewBox="0 0 352 512">
                                     <path 
